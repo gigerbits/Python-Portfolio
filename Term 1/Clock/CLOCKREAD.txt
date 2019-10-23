@@ -1,3 +1,7 @@
 This is self descriptive, while instead of being a normal clock it is an alarm clock
 
 in order to use, open the .py file named "Clock"
+
+pressing the "a" key on your keyboard will let you set an alarm.
+
+pressing the "x" key on your keyboard will quit the program.
