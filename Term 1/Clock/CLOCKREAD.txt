@@ -1,0 +1,3 @@
+This is self descriptive, while instead of being a normal clock it is an alarm clock
+
+in order to use, open the .py file named "Clock"
